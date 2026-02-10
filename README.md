@@ -4,11 +4,7 @@ I started this journey on 5 February 2026 with one simple rule:
 
 Show up. Every weekday. No excuses.
 
-Why this repository exists
-
-This is not about random coding.
-
-This is about:
+## Why this repository exists
 
 Building consistency
 
@@ -26,7 +22,7 @@ Structure
 
 Problems are solved in Python and organized by topic whenever possible.
 
-Typical areas covered:
+## Typical areas covered:
 
 Arrays
 
@@ -58,16 +54,14 @@ Proper variable naming
 
 Learning, not just “getting accepted”
 
-Schedule
+## Schedule
 
 I solve problems:
 
 Monday → Friday
 
-This repo is my accountability system.
-No motivation needed — just the routine.
 
-Approach
+## Approach
 
 When solving a problem, I try to:
 
@@ -83,7 +77,7 @@ Learn the pattern behind the problem
 
 The goal is long-term skill, not short-term speed.
 
-Tech Used
+## Tech Used
 
 Language: Python
 
@@ -91,9 +85,7 @@ Platform: LeetCode
 
 Tools: Basic Python libraries only (no unnecessary complexity)
 
-Progress Mindset
-
-This repository represents:
+## Progress Mindset
 
  1% improvement every day
  Training the brain like a muscle
@@ -102,7 +94,7 @@ This repository represents:
 Some days are easy. Some problems are brutal.
 Both are part of the process.
 
-Future Goals
+## Future Goals
 
 Master core DSA patterns
 
@@ -112,7 +104,7 @@ Become comfortable with hard problems
 
 Use these skills in real interviews
 
-Final Note
+## Final Note
 
 This is not a showcase of perfection.
 

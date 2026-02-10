@@ -1,26 +1,20 @@
+## VH-DSA-Python
+Leetcode Link - https://leetcode.com/u/vinayhulsurkar24/
+
 A personal repository where I solve Data Structures & Algorithms problems regularly to sharpen problem-solving skills and prepare for coding interviews.
 
 I started this journey on 5 February 2026 with one simple rule:
-
 Show up. Every weekday. No excuses.
 
 ## Why this repository exists
 
-Building consistency
+1. Building consistency
+2. Improving logical thinking
+3. Writing clean Python solutions
+4. Preparing for technical interviews
+5. Becoming comfortable with problem solving under pressure
+6. Small effort. Repeated daily. Compounds.
 
-Improving logical thinking
-
-Writing clean Python solutions
-
-Preparing for technical interviews
-
-Becoming comfortable with problem solving under pressure
-
-Small effort. Repeated daily. Compounds.
-
-Structure
-
-Problems are solved in Python and organized by topic whenever possible.
 
 ## Typical areas covered:
 

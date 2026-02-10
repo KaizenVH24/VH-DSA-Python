@@ -36,8 +36,7 @@ Show up. Every weekday. No excuses.
 3. Proper variable naming
 4. Learning, not just “getting accepted”
 
-## Schedule
-## I solve problems: Monday → Friday
+## Schedule - I solve problems: Monday → Friday
 
 ## Approach
 

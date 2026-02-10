@@ -18,25 +18,16 @@ Show up. Every weekday. No excuses.
 
 ## Typical areas covered:
 
-Arrays
-
-Strings
-
-Recursion
-
-Sorting & Searching
-
-Linked Lists
-
-Stacks & Queues
-
-Trees & Binary Search Trees
-
-Dynamic Programming
-
-Greedy Algorithms
-
-Graphs
+1. Arrays
+2. Strings
+3. Recursion
+4. Sorting & Searching
+5. Linked Lists
+6. Stacks & Queues
+7. Trees & Binary Search Trees
+8. Dynamic Programming
+9. Greedy Algorithms
+10. Graphs
 
 Each solution focuses on:
 

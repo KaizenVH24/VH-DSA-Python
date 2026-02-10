@@ -29,46 +29,33 @@ Show up. Every weekday. No excuses.
 9. Greedy Algorithms
 10. Graphs
 
-Each solution focuses on:
+## Each solution focuses on:
 
-Clear logic
-
-Readable code
-
-Proper variable naming
-
-Learning, not just “getting accepted”
+1. Clear logic
+2. Readable code
+3. Proper variable naming
+4. Learning, not just “getting accepted”
 
 ## Schedule
-
-I solve problems:
-
-Monday → Friday
-
+## I solve problems: Monday → Friday
 
 ## Approach
 
 When solving a problem, I try to:
 
-Understand the problem deeply
-
-Think of brute force first
-
-Improve time & space complexity
-
-Write clean, simple Python code
-
-Learn the pattern behind the problem
-
+1. Understand the problem deeply
+2. Think of brute force first
+3. Improve time & space complexity
+4. Write clean, simple Python code
+5. Learn the pattern behind the problem
+   
 The goal is long-term skill, not short-term speed.
 
 ## Tech Used
 
-Language: Python
-
-Platform: LeetCode
-
-Tools: Basic Python libraries only (no unnecessary complexity)
+1. Language: Python
+2. Platform: LeetCode
+3. Tools: Basic Python libraries only (no unnecessary complexity)
 
 ## Progress Mindset
 
@@ -81,18 +68,16 @@ Both are part of the process.
 
 ## Future Goals
 
-Master core DSA patterns
-
-Improve speed in solving medium problems
-
-Become comfortable with hard problems
-
-Use these skills in real interviews
+1. Master core DSA patterns
+2. Improve speed in solving medium and hard problems
+3. Become comfortable with hard problems
+4. Use these skills in real interviews
 
 ## Final Note
 
-This is not a showcase of perfection.
+This is not a showcase of perfection. It’s a log of growth.
+## Every solved problem = one step forward.
 
-It’s a log of growth.
-
-Every solved problem = one step forward.
+My Online Visibility:
+1. LinkedIn - https://www.linkedin.com/in/vinayhulsurkar
+2. Instagram - https://www.instagram.com/vinayhulsurkar
